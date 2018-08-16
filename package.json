@@ -32,7 +32,8 @@
     "weex-builder": "^0.2.6"
   },
   "dependencies": {
-    "weex-html5": "^0.3.2",
-    "weex-components": "*"
+    "sax": "^1.2.4",
+    "weex-components": "*",
+    "weex-html5": "^0.3.2"
   }
 }
