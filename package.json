@@ -1,0 +1,23 @@
+{
+  "name": "vuelearn",
+  "version": "1.0.0",
+  "description": "学习vue的内容",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyiyibaibai/vuelearn.git"
+  },
+  "keywords": [
+    "xiaodonghong",
+    "vue"
+  ],
+  "author": "xiaodonghong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoyiyibaibai/vuelearn/issues"
+  },
+  "homepage": "https://github.com/xiaoyiyibaibai/vuelearn#readme"
+}
